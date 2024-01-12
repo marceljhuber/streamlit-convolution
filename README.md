@@ -1,5 +1,7 @@
 # Streamlit Kernel Computation Demo
 
+Original author: Jan Korytář
+
 This Streamlit demo showcases kernel computation using sliders for customization and visualization.
 
 ![Demo Image](demo.png)
